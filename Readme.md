@@ -1,3 +1,3 @@
 # Backend learning project
 
-This is a project on backend withm javasript 
+This is a project on backend with javasript 
